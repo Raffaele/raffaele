@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a fullstack software engineer from bangladesh
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
+- 🔭 Working on multiple frontend and backend project using React, svelte and Nodejs (js + typescript)
+- 🌱 Learning new js-related technologies
 <br>
 
 ## Connect with me

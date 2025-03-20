@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a fullstack software engineer from Italy
+I am a fullstack software engineer originally from Italy and living in London
 - 🔭 Working on multiple frontend and backend project using React, svelte and Nodejs (js + typescript)
 - 🌱 Learning new js-related technologies
 <br>

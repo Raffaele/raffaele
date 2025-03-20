@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a fullstack software engineer from bangladesh
+I am a fullstack software engineer from Italy
 - 🔭 Working on multiple frontend and backend project using React, svelte and Nodejs (js + typescript)
 - 🌱 Learning new js-related technologies
 <br>
